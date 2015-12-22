@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-22T23:16:45.898Z'
-dateModified: '2015-12-22T23:16:31.009Z'
+datePublished: '2015-12-22T23:20:21.915Z'
+dateModified: '2015-12-22T23:20:18.285Z'
 title: "Blaire's College Savings"
 author: []
 authors: []
