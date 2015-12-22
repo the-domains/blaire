@@ -1,7 +1,7 @@
 name: Blaire
 favicon: null
-layout_spectrum: 0.8772212122566998
-typography_spectrum: 0.5752625488676131
+layout_spectrum: 1
+typography_spectrum: 0.25149
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#fefefe'
+    - '#000000'
+    - '#728aa2'
+    - '#b3b9c1'
+    - '#525e6b'
   brandStrength: 0.9038332893978804
   lightness: 0.7336556154768914
-  saturation: 0.10283279465511441
-  rhythmicContrast: 0.1985147122759372
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
