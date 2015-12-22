@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Blaire]]></title>
         <description><![CDATA[Blaire]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.blai.re/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 16:48:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 20:25:17 GMT</lastBuildDate>
+        <atom:link href="http://www.blai.re/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First trip to the snow]]></title>
+            <description><![CDATA[<article><h1>First trip to the snow</h1><p>Forest Falls, CA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2a84fe71043da36f0a16ca104df571f622274f2.jpg"></article>]]></description>
+            <link>http://www.blai.re/first-trip-to-the-snow/index.html</link>
+            <guid isPermaLink="false">2d674a7f-8de6-4e23-8918-b265d8c0aac8</guid>
+            <pubDate>Tue, 22 Dec 2015 20:25:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Snow</p>]]></description>
-            <link>undefinedc7ac0945-ea5b-46e9-8840-d6f66b72838a/index.html</link>
+            <link>http://www.blai.re/c7ac0945-ea5b-46e9-8840-d6f66b72838a/index.html</link>
             <guid isPermaLink="false">c7ac0945-ea5b-46e9-8840-d6f66b72838a</guid>
             <pubDate>Tue, 22 Dec 2015 16:48:05 GMT</pubDate>
         </item>
